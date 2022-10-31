@@ -1,2 +1,7 @@
 Mis on github? GitHub on veebimajutusplatvorm versioonihalduseks ja ühistööks.
 Kes kasutavad githubi? programeeriad, arendajad
+
+kuidas ja kus saad Sina edaspidi kasutada GitHubi (1-2 lauset). Programeerimise tundides saan kasutada githubi. Edaspidi kõikides tundides saan siia õppealaseid asju üles laadida.
+mis aastal- 	February 8, 2008; 14 aastat tagasi.
+kes asutasid GitHub Inc- Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt.
+mis aastast oli GitHubi teenus kättesaadav-  GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris.
